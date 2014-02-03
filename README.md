@@ -48,7 +48,7 @@ grunt.initConfig({
         <link href="/css/main.css" rel="stylesheet" inline="true"/> <!-- absolute url will use basepath option -->
     </head>
     <body>
-        <h1>@{hello}@, Grunt inline static content plugin </h1>
+        <h1>@{hello}@, Grunt css in the head</h1>
         <script src="js/app.js" inline="true"></script>
         <script src="js/common.js" inline="true"></script> 
     </body>
